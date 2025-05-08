@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+re
+pickle5
+shutil
+zipfile36
+numpy
+tk
